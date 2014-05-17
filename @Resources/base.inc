@@ -5,6 +5,17 @@ FontFace=Trebuchet MS
 FontSize=8
 FontColor=232,232,232,255
 Width=200
+;Line chart style
+LineGreen=StyleLineBase | StyleLineGreen
+LineBlue=StyleLineBase | StyleLineBlue
+LineRed=StyleLineBase | StyleLineRed
+LineYellow=StyleLineBase | StyleLineYellow
+;Bar chart style
+BarGreen=StyleBarBase | StyleBarGreen
+BarBlue=StyleBarBase | StyleBarBlue
+BarRed=StyleBarBase | StyleBarRed
+BarYellow=StyleBarBase | StyleBarYellow
+
 
 ;;---------------
 ;; Title style

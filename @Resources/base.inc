@@ -1,5 +1,5 @@
 [Variables]
-BackgroundColor=0,0,0,182
+BackgroundColor=
 FontFace=Trebuchet MS
 ;FontFace=Calibri
 FontSize=8
@@ -16,6 +16,17 @@ BarBlue=StyleBarBase | StyleBarBlue
 BarRed=StyleBarBase | StyleBarRed
 BarYellow=StyleBarBase | StyleBarYellow
 
+
+;;---------------
+;; Background Style
+;;---------------
+[StyleBackground]
+Meter=Image
+X=0
+Y=0
+W=#Width#
+SolidColor=66,66,66,255
+SolidColor2=11,11,11,255
 
 ;;---------------
 ;; Title style

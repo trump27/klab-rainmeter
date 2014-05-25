@@ -25,8 +25,8 @@ Meter=Image
 X=0
 Y=0
 W=#Width#
-SolidColor=66,66,66,255
-SolidColor2=11,11,11,255
+SolidColor=66,66,66,220
+SolidColor2=33,33,33,220
 
 ;;---------------
 ;; Title style
